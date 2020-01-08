@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "egg": "^2.26.0",
-    "egg-bin": "^4.14.1"
+    "egg-bin": "^4.14.1",
+    "egg-mysql": "^3.0.0"
   }
 }
